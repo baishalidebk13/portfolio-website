@@ -7,10 +7,6 @@
     --main-header-background: #1f1f1f; /* Dark header background */
     --main-font-family: 'Roboto', sans-serif;
 }
-header.nav-show {
-    background-color: rgba(0, 0, 0, 0.8); /* Example styling */
-    transition: background-color 0.3s ease;
-}
 
 * {
     margin: 0;
